@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">A software developer from Argentina</h3>
+![image](https://github.com/lubari/lubari/assets/48427687/a12e585e-c794-4dcb-b3e6-721f05dc1901)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubari&label=Profile%20views&color=0e75b6&style=flat" alt="lubari" /> </p>
 
