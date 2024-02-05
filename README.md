@@ -1,4 +1,6 @@
-<head align="center">![Header](https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039)</head>
+<head align="center">
+   <img src="https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039" alt="Header">
+</head>
 
 
 <h3 align="center">A software developer from Argentina</h3>
