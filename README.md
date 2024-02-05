@@ -1,4 +1,5 @@
-![Header](![github-header-image](https://github.com/lubari/lubari/assets/48427687/ae880b6a-567d-49d7-9a27-9e4176227ea4))
+(https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039)
+
 
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">A software developer from Argentina</h3>
