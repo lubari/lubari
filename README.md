@@ -1,5 +1,5 @@
 <head align="center">
-   <img src="https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039" alt="Header">
+   <img aling="center" src="https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039" alt="Header">
 </head>
 
 
