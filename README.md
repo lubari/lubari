@@ -1,5 +1,5 @@
-(https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039)
 
+![Header](./your-header-image-name.png)
 
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">A software developer from Argentina</h3>
