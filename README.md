@@ -1,5 +1,5 @@
+<head align="center">![Header](https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039)</head>
 
-![Header align="center"](https://github.com/lubari/lubari/assets/48427687/12cb9dd1-4f82-44dc-8162-c4d0c9700039)
 
 <h3 align="center">A software developer from Argentina</h3>
 <img align = "right" alt = "Coding" width="400" src ="https://i.pinimg.com/564x/b5/5f/6a/b55f6af7d14c74f130397f30abdfb3a8.jpg"></img>
