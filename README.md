@@ -8,6 +8,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubari&label=Profile%20views&color=0e75b6&style=flat" alt="lubari" /> </p>
+<h2>About Me</h2>
+<ul>
+  <li>I have more than 2 years of experience working as a Backend Java Developer.</li>
+  <li>Currently, I am learning C# and JavaScript.</li>
+</ul>
+
+<h2>Education</h2>
+<ul>
+  <li>I am currently studying Computer Engineering at UADE University.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
