@@ -1,6 +1,5 @@
 # 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubari&label=Profile%20views&color=0e75b6&style=flat" alt="lubari" /> </p>
-<h2>About Me</h2>
 <ul>
    <li>My name is Ana I am a software developer from Argentina Buenos Aires City.</li>
   <li>I have more than 2 years of experience working as a Backend Java Developer working whit Java.</li>
