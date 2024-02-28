@@ -26,8 +26,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 ---
-[![](https://visitcount.itsvg.in/api?id=lubari&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubari&label=Profile%20views&color=0e75b6&style=flat" alt="lubari" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
