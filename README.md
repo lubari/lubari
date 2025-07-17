@@ -7,7 +7,7 @@
    <li>Currently pursuing a Bachelor of Science in Computer Engineering at UADE University</li>
 </ul>
 
-## 🌐 Socials:
+## 📫 Let's connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-victoria-lubari/) 
 
 # 💻 Tech Stack:
