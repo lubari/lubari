@@ -9,7 +9,7 @@
 
 ## 📫 Let's connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-victoria-lubari/) 
-<p>[My Portfolio](https://lubari.github.io/tpporfolio/index.html)</p>
+        <a href="https://lubari.github.io/tpporfolio/index.html" target="_blank"><p>MY PORTFOLIO</p></a>
 
 
 # 💻 Tech Stack:
